@@ -1,1 +1,1 @@
-# figoo
+# Figo
